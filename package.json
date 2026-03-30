@@ -1,0 +1,12 @@
+{
+  "name": "game-store-bot",
+  "version": "1.0.0",
+  "description": "Telegram Game Store Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
