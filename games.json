@@ -1,0 +1,9 @@
+[
+  {
+    "id": "gta5",
+    "name": "GTA V",
+    "price": 999,
+    "platform": "Steam",
+    "keys": ["KEY-AAA-BBB", "KEY-CCC-DDD"]
+  }
+]
